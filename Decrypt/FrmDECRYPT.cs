@@ -29,7 +29,7 @@ namespace Decrypt
             
             txtBxDECRYPT.Font = new Font(pfc.Families[0], 10, FontStyle.Regular);
 
-            lblDECRYPT.Text = "";
+            lblDECRYPT.Text = "                    ";
         }
 
         public string decrypto(string d)
