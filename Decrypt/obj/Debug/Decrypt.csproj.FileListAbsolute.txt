@@ -1,0 +1,10 @@
+c:\users\monroem\documents\visual studio 2013\Projects\Decrypt\Decrypt\bin\Debug\Decrypt.exe.config
+c:\users\monroem\documents\visual studio 2013\Projects\Decrypt\Decrypt\bin\Debug\Decrypt.exe
+c:\users\monroem\documents\visual studio 2013\Projects\Decrypt\Decrypt\bin\Debug\Decrypt.pdb
+c:\users\monroem\documents\visual studio 2013\Projects\Decrypt\Decrypt\obj\Debug\Decrypt.Properties.Resources.resources
+c:\users\monroem\documents\visual studio 2013\Projects\Decrypt\Decrypt\obj\Debug\Decrypt.csproj.GenerateResource.Cache
+c:\users\monroem\documents\visual studio 2013\Projects\Decrypt\Decrypt\obj\Debug\Decrypt.exe
+c:\users\monroem\documents\visual studio 2013\Projects\Decrypt\Decrypt\obj\Debug\Decrypt.pdb
+C:\Users\monroem\documents\visual studio 2013\Projects\Decrypt\Decrypt\obj\Debug\Decrypt.csprojResolveAssemblyReference.cache
+C:\Users\monroem\documents\visual studio 2013\Projects\Decrypt\Decrypt\bin\Debug\Roboto\Roboto-Regular.ttf
+C:\Users\monroem\documents\visual studio 2013\Projects\Decrypt\Decrypt\obj\Debug\Decrypt.FrmDECRYPT.resources
